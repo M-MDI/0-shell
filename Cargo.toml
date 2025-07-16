@@ -6,5 +6,3 @@ edition = "2021"
 [[bin]]
 name = "0-shell"
 path = "src/main.rs"
-
-[dependencies]
